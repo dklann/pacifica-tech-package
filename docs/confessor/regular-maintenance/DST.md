@@ -13,24 +13,21 @@
 In most US time zones there are two time changes each year: one when we switch
 our clocks to [_Daylight Saving
 Time_](https://en.wikipedia.org/wiki/Daylight_saving_time) (_DST_), and one when
-we switch them back to _Standard Time_.
+we switch them back to [_Standard
+Time_](https://en.wikipedia.org/wiki/Standard_time).
 
-As of this writing (October, 2023), the change **from** _Standard Time_ **to**
-_Daylight Saving Time_ occurs on the second Sunday in March at 2 AM (more about
-this later). The change **from** _Daylight Saving Time_ **to** _Standard Time_
-occurs on the first Sunday in November at 2 AM.
+As of this writing (March, 2024), the change **from** _Standard Time_ **to**
+_Daylight Saving Time_ occurs on the second Sunday in March at 2 AM. The change
+**from** _Daylight Saving Time_ **to** _Standard Time_ occurs on the first
+Sunday in November at 2 AM.
 
-The switch **to** _DST_ (from _Standard Time_) causes us to change our clocks to
-one hour **earlier**. The actual change is done at what would be 2:00 AM on the
-day of change by simply eliminating the 2AM hour: the time jumps from 1:59:59 AM
-to 3:00 AM eliminating the 2AM hour.
+The switch **to** _DST_ (from _Standard Time_) is done at what would be 2:00:00
+AM on the day of change by simply eliminating the 2AM hour: the time jumps
+**forward** from 1:59:59 AM to 3:00:00 AM skipping the 2AM hour.
 
-The switch **from** _DST_ (to _Standard Time_) is done at 2:00 AM on the day of
-change by setting the time **back** to 1:00 AM, thus adding one hour to the day:
-the time jumps from 1:59:59 AM to 1:00 AM repeating the 1AM hour.
-
-These changes require action on your part in order to keep your archived audio
-consistent with the time on the clock (in whichever direction it changes).
+The switch **from** _DST_ (to _Standard Time_) is done at 2:00:00 AM on the day of
+change by setting the time **back** to 1:00:00 AM, thus adding one hour to the day:
+the time jumps from 1:59:59 AM to 1:00 AM "repeating" the 1AM hour.
 
 <!--toc-->
 
@@ -50,14 +47,14 @@ shortened by one hour). You can either remove the one-hour show that airs
 between 2:00 AM and 3:00 AM (if there is one), or you can simply shorten the
 show that crosses the 2:00 AM hour (if that's how your schedule is set up).
 
-You must lengthen your schedule in the Fall (by adding an hour of programming
-to the schedule), just as the day is one hour longer when switching to _Standard
-Time_.
+You must lengthen your schedule in the Fall by adding an hour of programming to
+the schedule, just as the day is one hour longer when switching from _DST_ to
+_Standard Time_.
 
-How this "shortening" and "lengthening" happens is more or less up to you and
-your station's schedule.
+How this "shortening" and "lengthening" happens is completely up to you and your
+station's schedule.
 
-### Spring Forward (Lose an Hour of Programming) ###
+### Spring Forward (Delete an Hour of Programming) ###
 
 When you log in to your Confessor and navigate to your station's schedule for
 the week of the time change **to** _DST_ you will notice that there is no 2AM hour
@@ -83,7 +80,7 @@ actually starts at 5AM, but now appears in the schedule to start at 6AM.
 #### Shorten your schedule in the Spring ####
 
   1. browse to _Schedule Admin_ and click _Next_ in the schedule (upper right)
-     until the first Sunday in November is visible; you'll see a "gap" or empty
+     until the second Sunday in March is visible; you'll see a "gap" or empty
      hour at the end of that day
 
   1. remove the hour from 2AM to 3AM (or shorten the length of the show that
